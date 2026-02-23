@@ -15,7 +15,7 @@ $data = json_decode($json, true);
 </head>
 <body>
 
-<!-- jméno -->
+<!-- jméno hihi -->
 <h1><?php echo htmlspecialchars($data["name"]); ?></h1>
 
 <!-- dovednosti -->
