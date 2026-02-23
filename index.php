@@ -11,6 +11,7 @@ $data = json_decode($json, true);
 <head>
     <meta charset="UTF-8">
     <title>Profil</title>
+    <?php echo '<link rel="stylesheet" href="style.css">'; ?>
 </head>
 <body>
 
